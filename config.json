@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "PDF Renamer by Visible Title",
+    "version": "1.0.0"
+  },
+  "author": {
+    "name": "Sri Yanto Qodarbaskoro",
+    "email": "sqodarbaskoro@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/sqodarbaskoro"
+  },
+  "settings": {
+    "log_level": "INFO",
+    "log_to_file": true,
+    "max_filename_length": 255
+  }
+}
+
